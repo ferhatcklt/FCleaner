@@ -24,7 +24,7 @@ cat > "$APP/Contents/Info.plist" <<PLIST
 <dict>
     <key>CFBundleName</key><string>FCleaner</string>
     <key>CFBundleDisplayName</key><string>FCleaner</string>
-    <key>CFBundleIdentifier</key><string>io.github.ferhatcklt.FCleaner</string>
+    <key>CFBundleIdentifier</key><string>tr.com.fcapps.fcleaner</string>
     <key>CFBundleExecutable</key><string>FCleaner</string>
     <key>CFBundleIconFile</key><string>AppIcon</string>
     <key>CFBundlePackageType</key><string>APPL</string>
