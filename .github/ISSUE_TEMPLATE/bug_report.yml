@@ -1,0 +1,33 @@
+name: Bug report / Hata bildirimi
+description: Something doesn't work as expected.
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        If FCleaner deleted (or could delete) something it shouldn't, **do not file it here**. Report it privately: https://github.com/ferhatcklt/FCleaner/security/advisories/new
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened? / Ne oldu?
+      description: Include the steps to reproduce.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect? / Ne bekliyordunuz?
+  - type: input
+    id: version
+    attributes:
+      label: FCleaner version / Sürüm
+      placeholder: "0.1.0"
+    validations:
+      required: true
+  - type: input
+    id: macos
+    attributes:
+      label: macOS version
+      placeholder: "26.1"
+    validations:
+      required: true
