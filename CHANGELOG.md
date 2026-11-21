@@ -4,6 +4,9 @@ All notable changes to this project are documented here. The format is based on 
 
 ## [Unreleased]
 
+### Changed
+- Copyright holder is now FCApps; the About window shows "© 2026 FCApps".
+
 ## [0.1.0] - 2026-11-21
 
 First public release.

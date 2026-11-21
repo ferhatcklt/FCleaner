@@ -77,4 +77,4 @@ Hata bildirimleri ve pull request'ler memnuniyetle karşılanır, bkz. [CONTRIBU
 
 ## Lisans
 
-[MIT](LICENSE)
+[MIT](LICENSE) © 2026 [FCApps](https://fcapps.com.tr) ve FCleaner katkıcıları

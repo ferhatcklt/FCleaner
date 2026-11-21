@@ -104,4 +104,4 @@ Bug reports and pull requests are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md
 
 ## License
 
-[MIT](LICENSE)
+[MIT](LICENSE) © 2026 [FCApps](https://fcapps.com.tr) and FCleaner contributors

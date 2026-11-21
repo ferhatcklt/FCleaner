@@ -33,7 +33,7 @@ cat > "$APP/Contents/Info.plist" <<PLIST
     <key>LSMinimumSystemVersion</key><string>14.0</string>
     <key>LSApplicationCategoryType</key><string>public.app-category.utilities</string>
     <key>NSHighResolutionCapable</key><true/>
-    <key>NSHumanReadableCopyright</key><string>MIT License</string>
+    <key>NSHumanReadableCopyright</key><string>© 2026 FCApps · MIT License</string>
 </dict>
 </plist>
 PLIST
